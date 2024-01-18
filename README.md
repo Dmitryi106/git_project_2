@@ -1,0 +1,2 @@
+Добавление READMI
+git_project_2
